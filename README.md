@@ -11,6 +11,7 @@ A stylesheet for rst2html5.py
 
 http://stuff.fladd.de/docutils-solarized
 
+(Based on `demo.rst` in this repository).
 
 # Usage
 
